@@ -4,14 +4,9 @@ Chat freely without giving up your phone number, email address, real name, or lo
 
 ## Repositories
 
-- **[nymstr-app](https://github.com/nymstr/nymstr-app)** - Desktop client application (Rust TUI)
+- **[nymstr-app](https://github.com/nymstr/nymstr-app)** - Desktop client application
 - **[nymstr-server](https://github.com/nymstr/nymstr-server)** - Discovery node and message relay service
-
-## Development roadmap
-
-- **Q4 2025**: Desktop launch - Native applications for Linux, macOS, and Windows
-- **Q1 2026**: Mobile apps - Android and iOS applications with full feature parity
-- **Q2 2026**: Federated network - Decentralized server federation allowing cross-server communication
+- **[nymstr-app](https://github.com/nymstr/nymstr-group)** - Group chat server
 
 ## Contributing
 
