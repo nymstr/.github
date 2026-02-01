@@ -6,7 +6,7 @@ Chat freely without giving up your phone number, email address, real name, or lo
 
 - **[nymstr-app](https://github.com/nymstr/nymstr-app)** - Desktop client application
 - **[nymstr-server](https://github.com/nymstr/nymstr-server)** - Discovery node and message relay service
-- **[nymstr-app](https://github.com/nymstr/nymstr-group)** - Group chat server
+- **[nymstr-group](https://github.com/nymstr/nymstr-group)** - Group chat server
 
 ## Contributing
 
