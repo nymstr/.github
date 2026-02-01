@@ -1,7 +1,5 @@
 # nymstr
 
-> **messaging without surveillance**
-
 Chat freely without giving up your phone number, email address, real name, or location. nymstr is a private messenger that doesn't track who you talk to, when you talk, or where you are.
 
 ## Repositories
